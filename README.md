@@ -21,9 +21,9 @@ Graduate Software Engineer with a First-Class Honours BSc in Business Informatio
 - Developer tooling or internal process automation
 
 ## Contact
-- Email: alisonlflynn1@gmail.com  
+- Email: [alisonlflynn1@gmail.com](mailto:alisonlflynn1@gmail.com)
 - Portfolio: [alisonflynn.design](https://alisonflynn.design)  
-- LinkedIn: [linkedin.com/in/alisonlflynn](https://linkedin.com/in/alisonlflynn)
+- LinkedIn: [linkedin.com/in/alisonlflynn](https://www.linkedin.com/in/alison-flynn1/)
 
 ## About This Profile
 This repository showcases selected work and experiments in UX, frontend architecture, and software design.
